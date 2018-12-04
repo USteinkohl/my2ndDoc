@@ -1,2 +1,4 @@
-# ms2ndDoc
-second test project
+# my2ndDoc
+this is my second test project
+
+**only for test**
