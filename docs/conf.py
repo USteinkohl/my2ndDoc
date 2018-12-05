@@ -87,7 +87,8 @@ html_theme_options = {
     'logo_only': True,
     'collapse_navigation' : True,
     'sticky_navigation' : True,
-
+    'navigation_depth': 3,
+#    'titles_only': True,
 }
 
 
